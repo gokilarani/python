@@ -1,0 +1,29 @@
+id1
+{
+    font-family: Georgia;
+    
+    font-style: italic;
+}body{
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}body{
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#id2
+{
+    
+    background-color: blueviolet;
+
+}
+id3
+{
+    font-family:'Georgia';
+    font-size:xx-large;
+}
+h1{
+    font-size: larger;
+}
